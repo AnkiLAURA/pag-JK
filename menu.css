@@ -1,0 +1,14 @@
+ul{
+    padding-top: 20px;
+    padding-left: 100px;
+    margin: auto;
+}
+
+li{
+    list-style: none;
+    border: solid 2px black;
+    border-radius: 6px;
+    padding: 10px;
+    float: left;
+    font-size: 24px;
+}

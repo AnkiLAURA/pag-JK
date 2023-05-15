@@ -1,0 +1,36 @@
+header{
+    border: solid 2px black;
+    padding: 5px;
+}
+
+h1{
+    font-size: 55px;
+    
+}
+
+nav{
+    border: solid 2px rgb(172, 23, 172);
+
+    height: 90px;
+    max-width: 600px; margin: auto;
+}
+
+aside{
+    border: solid 2px red;
+    padding: 5px;
+    float: right;
+    width: 30%;
+    height: 130px;
+}
+section{
+    border: solid 2px green;
+    padding: 10px;
+    margin-right: 50px;
+    width: 60%;
+    height: 130px;
+}
+footer{
+    border: solid 2px blue;
+    padding: 5px;
+    margin: 10px;
+}
